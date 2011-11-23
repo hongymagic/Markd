@@ -1,11 +1,8 @@
-﻿@model IEnumerable<string>
-
-@if (Model.Any()) {
-  foreach (var article in Model) {
-    <article>
-      @Html.Raw(article)
-    </article>
-  }
-} else {
-  <p>There are no articles at this stage.</p>
+﻿@model Markd.ViewModels.HomeViewModel
+         
+@foreach (var post in Model.Posts)
+{
+  <article>
+    @Html.Raw(post.HtmlContent)
+  </article>
 }

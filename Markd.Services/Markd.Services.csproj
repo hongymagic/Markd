@@ -43,11 +43,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DummyMarkdownService.cs" />
+    <Compile Include="Interfaces\IPostService.cs" />
+    <Compile Include="MarkdownPostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Markd.Adaptors\Markd.Adaptors.csproj">
+      <Project>{82D4BAE6-3B1C-4E37-9F25-542800C08838}</Project>
+      <Name>Markd.Adaptors</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Markd.DomainModels\Markd.DomainModels.csproj">
+      <Project>{5E9042B4-145D-43C6-8C47-94145D74F703}</Project>
+      <Name>Markd.DomainModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Markd.ViewModels\Markd.ViewModels.csproj">
+      <Project>{2C27468E-EA0B-431A-A22A-4EDE0E0E0FBB}</Project>
+      <Name>Markd.ViewModels</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

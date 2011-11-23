@@ -5,3 +5,9 @@ c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Services\bin\
 c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Services\obj\Debug\ResolveAssemblyReference.cache
 c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Services\obj\Debug\Markd.Services.dll
 c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Services\obj\Debug\Markd.Services.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.Adaptors.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.DomainModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.ViewModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.Adaptors.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.DomainModels.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Services\bin\Debug\Markd.ViewModels.pdb

@@ -1,0 +1,5 @@
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.DomainModels\bin\Debug\Markd.DomainModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.DomainModels\bin\Debug\Markd.DomainModels.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.DomainModels\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.DomainModels\obj\Debug\Markd.DomainModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.DomainModels\obj\Debug\Markd.DomainModels.pdb

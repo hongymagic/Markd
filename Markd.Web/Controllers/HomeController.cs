@@ -1,27 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Web.Mvc;
-using Markd.Services;
-
+﻿using System.Web.Mvc;
 namespace Markd.Web.Controllers
 {
+    using Services.Interfaces;
+    using ViewModels;
+
     public class HomeController : Controller
     {
-        private readonly DummyMarkdownService _service;
-        public HomeController()
+        private readonly IPostService _postService;
+        public HomeController(IPostService postService)
         {
-            _service = new DummyMarkdownService(AppDomain.CurrentDomain.GetData("DataDirectory").ToString());
+            _postService = postService;
         }
 
         public ActionResult Index()
         {
-            var model = _service.All();
-            return View(model);
-        }
-
-        public ActionResult About()
-        {
-            return View();
+            return View(new HomeViewModel { Posts = _postService.Posts() });
         }
     }
 }

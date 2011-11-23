@@ -39,3 +39,9 @@ c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Web\obj\Debug
 c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Web\bin\Markd.Services.dll
 c:\users\udxh003\documents\visual studio 2010\Projects\Markd\Markd.Web\bin\Markd.Services.pdb
 C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\App_Data\Posts\Very-first-demo-post.markdown
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.Adaptors.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.ViewModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.DomainModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.Adaptors.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.ViewModels.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Web\bin\Markd.DomainModels.pdb

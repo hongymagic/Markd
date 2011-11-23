@@ -1,0 +1,7 @@
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\bin\Debug\Markd.Adaptors.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\bin\Debug\Markd.Adaptors.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\bin\Debug\Markd.DomainModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\bin\Debug\Markd.DomainModels.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\obj\Debug\Markd.Adaptors.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.Adaptors\obj\Debug\Markd.Adaptors.pdb

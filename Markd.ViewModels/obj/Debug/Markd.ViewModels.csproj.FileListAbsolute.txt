@@ -1,0 +1,5 @@
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.ViewModels\bin\Debug\Markd.ViewModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.ViewModels\bin\Debug\Markd.ViewModels.pdb
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.ViewModels\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.ViewModels\obj\Debug\Markd.ViewModels.dll
+C:\Users\UDXH003\Documents\Visual Studio 2010\Projects\Markd\Markd.ViewModels\obj\Debug\Markd.ViewModels.pdb

@@ -1,9 +1,13 @@
-﻿using System.Reflection;
+﻿using System;
+using System.Reflection;
 using System.Web.Mvc;
 using System.Web.Routing;
 using Autofac;
 using Autofac.Integration.Mvc;
+using Markd.Adaptors;
+using Markd.Adaptors.Interfaces;
 using Markd.Services;
+using Markd.Services.Interfaces;
 
 namespace Markd.Web
 {
@@ -24,6 +28,10 @@ namespace Markd.Web
         {
             var builder = new ContainerBuilder();
             builder.RegisterControllers(typeof(MvcApplication).Assembly);
+
+            builder.Register((c, p) => new AppDataPostAdaptor(AppDomain.CurrentDomain.GetData("DataDirectory").ToString())).As<IPostAdaptor>();
+            builder.RegisterType<MarkdownPostService>().As<IPostService>();
+
             var container = builder.Build();
             DependencyResolver.SetResolver(new AutofacDependencyResolver(container));
         }

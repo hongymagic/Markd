@@ -1,5 +1,8 @@
 <Modules>
   <Module PersistentId="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A" ModuleId="Markd.Web" />
   <Module PersistentId="83B19B36-AD72-4CDD-92B7-E01229AA605F" ModuleId="Markd.Services" />
-  <Module PersistentId="C5EA3FE9-1F3F-4A93-9ED0-8321BDCC155F" ModuleId="Markd.Posts" />
+  <Module PersistentId="5E9042B4-145D-43C6-8C47-94145D74F703" ModuleId="Markd.DomainModels" />
+  <Module PersistentId="BBCB1A83-BFF4-40B9-B922-5E87EFA8CF71" ModuleId="Markd.Adaptors" />
+  <Module PersistentId="82D4BAE6-3B1C-4E37-9F25-542800C08838" ModuleId="Markd.Adaptors_1" />
+  <Module PersistentId="2C27468E-EA0B-431A-A22A-4EDE0E0E0FBB" ModuleId="Markd.ViewModels" />
 </Modules>
