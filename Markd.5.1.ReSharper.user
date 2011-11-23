@@ -1,0 +1,50 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Models/f:AccountModels.cs" caret="102" fromTop="5" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Views/d:Home/f:Index.cshtml" caret="209" fromTop="11" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/f:Global.asax.cs" caret="883" fromTop="15" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="593" fromTop="22" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="355" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="0" fromTop="0" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Models/f:AccountModels.cs" caret="44" fromTop="0" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="593" fromTop="14" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/f:Global.asax.cs" caret="173" fromTop="9" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/f:Global.asax.cs" caret="1168" fromTop="23" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="843" fromTop="18" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="909" fromTop="19" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="1018" fromTop="23" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Models/f:AccountModels.cs" caret="102" fromTop="5" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="242" fromTop="7" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="530" fromTop="17" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Views/d:Home/f:Index.cshtml" caret="126" fromTop="5" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="91" fromTop="3" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="382" fromTop="15" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/f:Global.asax.cs" caret="883" fromTop="15" />
+      <File id="FD9C5AAB-D6A0-4EFD-AB9F-2E0D00677A3A/d:Controllers/f:HomeController.cs" caret="394" fromTop="12" />
+      <File id="83B19B36-AD72-4CDD-92B7-E01229AA605F/f:DummyMarkdownService.cs" caret="523" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

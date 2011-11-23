@@ -1,0 +1,11 @@
+﻿@model IEnumerable<string>
+
+@if (Model.Any()) {
+  foreach (var article in Model) {
+    <article>
+      @Html.Raw(article)
+    </article>
+  }
+} else {
+  <p>There are no articles at this stage.</p>
+}
