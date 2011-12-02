@@ -1,0 +1,8 @@
+﻿body { color: #222; }
+
+
+#page {
+  margin: 1em auto;
+  padding: 1em;
+  max-width: 780px;
+}
